@@ -14,12 +14,12 @@ body {
   align-items: center;
   height: 100vh;
   background: url(./assets/images/bg-mobile.png) no-repeat center/cover;
-
 }
 
 main.content {
   display: flex;
   flex-direction: column;
+  max-width: 375px;
 }
 
 div.buttons-container {
@@ -102,7 +102,7 @@ div.storage-bar div.storage-progress {
   width: 80%;
   height: 16px;
   border-radius: 8px;
-  background: linear-gradient(#ffa399, #ff4d97);
+  background: linear-gradient( #ffa399, #ff4d97);
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -159,13 +159,14 @@ div.storage-remaining {
 
 @media (min-width: 975px) {
   body {
-    background: url(./assets/images/bg-desktop.png) no-repeat bottom #0c122c;;
+    background: url(./assets/images/bg-desktop.png) no-repeat bottom #0c122c;
     background-size: 100% auto;
   }
 
   main.content {
     flex-direction: row;
     align-items: flex-end;
+    max-width: 1440px;
 
   }
 

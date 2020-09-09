@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo data storage component
+# Frontend Mentor - Four card feature section
 
-![Design preview for the Fylo data storage component coding challenge](./assets/design/desktop-preview.jpg)
+![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -12,11 +12,11 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this data storage component and get it looking as close to the design as possible.
+Your challenge is to build out this feature section and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Your users should be able to:
+Your users should:
 
 - View the optimal layout for the site depending on their device's screen size
 
@@ -28,7 +28,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
-If you would like the Sketch file in order to inspect the design in more detail it is available to buy from the challenge page on the platform.
+If you would like the Sketch file in order to inspect the design in more detail it is available to [purchase here](https://bmc.xyz/l/uXWTfHQ53).
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
